@@ -1,0 +1,24 @@
+--- !ruby/object:Game
+secret_word:
+- b
+- o
+- a
+- t
+- i
+- n
+- g
+actual_guess:
+- _
+- _
+- a
+- t
+- _
+- _
+- _
+lives: 1
+tries:
+- 'e - '
+- 'r - '
+- 'c - '
+- 'f - '
+- 'q - '
